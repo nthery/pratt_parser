@@ -1,6 +1,6 @@
-// Toy pratt expression parser.
+// Toy Pratt expression parser.
 //
-// This is top-down recursive parser using Vaughan Pratt operator precedence technique.
+// This is a top-down recursive parser using Vaughan Pratt operator precedence technique.
 // It turns an infix expression into a reverse-polish one.
 //
 // It supports a prefix operator and a few left or right associative infix
